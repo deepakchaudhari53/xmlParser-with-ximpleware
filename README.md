@@ -1,2 +1,3 @@
-# xmlParser-with-ximpleware
- Parse XML with xpaths and read the complex mappings
+### Small Demo about VTD parser which used XPath to navigate through XML documents.
+
+#######https://dzone.com/articles/vtd-xml-parser
