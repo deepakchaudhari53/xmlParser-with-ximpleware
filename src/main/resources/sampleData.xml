@@ -3,7 +3,7 @@
 	<DocumentHdr>
 		<documentHdr:Type>TYPE</documentHdr:Type>
 		<documentHdr:Owner>MUMBAI</documentHdr:Owner>
-		<documentHdr:Id>Kondor+/Asia/1234</documentHdr:Id>
+		<documentHdr:Id>abc/Asia/1234</documentHdr:Id>
 		<documentHdr:Version>1</documentHdr:Version>
 		<documentHdr:TimeStamp>2020-01-31T07:00:17</documentHdr:TimeStamp>
 		<documentHdr:EventType>NEW</documentHdr:EventType>
@@ -40,8 +40,7 @@
 			<CptyClasses_Id>24354</CptyClasses_Id>
 			<Cpty_Id>198435</Cpty_Id>
 			<Cpty_Name>DOLLAR</Cpty_Name>
-			<Cpty_ShortName>DDL</Cpty_ShortName>
-			<Folders_Id>198436</Folders_Id>
+			<xxx_ShortName>DDL</xxx_ShortName>
 		</Currency>
 		<Branch>
 			<Branches_Id>203051</Branches_Id>
